@@ -14,9 +14,9 @@ Here's a glimpse of what you'll be achieving by the end of this workshop:
 
 Time to dive into action! 🏊‍♂️ Here's what you'll be working on:
 
-### 🎫 Ticket 1 - Setup
+### 🎫 Ticket 1 - Setup ✅
 
-Install Vitest and optionally set up an NPM `test` script that conveniently runs your tests.
+Install Vitest and optionally set up an NPM `test` script that conveniently runs your tests. ✅
 
 You will be making one kata each, but you will be in development teams. The aim is to co-elevate each other. There are several ways you can and should look to help each other:
 
