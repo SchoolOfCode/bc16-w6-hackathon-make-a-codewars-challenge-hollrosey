@@ -15,7 +15,6 @@ Where I could improve:
 ## 📝 Plan
 
 🏁 Setup:
-
 1. Use Disney Ideation to brainstorm some kata ideas
 2. Decide on a kata to create that fits in the hackathon time constraints
 3. Break this idea down into an MVP and add suitable stretch goals
@@ -33,6 +32,7 @@ Where I could improve:
 11. Publish to Codewars 
 12. Make harder versions of the kata to publish so that it addresses different skillsets 
 13. Translate it into languages other than JavaScript
+
 
 ### Brainstorming
 
