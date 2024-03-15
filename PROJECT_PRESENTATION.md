@@ -6,9 +6,18 @@
 
 In the depths of a mysterious forest, you have uncovered an ancient tablet, it's contents obscured by a cryptic ciper. Legends spoke of a hidden code that held the key to unlocking secrets untold.
 
-As a brave adventurer, it falls to you to decipher this cryptic tablet and reveal the message hidden upon it.
+As a brave adventurer, it falls to you to decipher this cryptic tablet and reveal the message hidden upon it. To aid you in your quest, you decide to write a function called 'decodeCipher' that will decrypt the message using the provided cipher key.
 
-Good luck!
+Additional guidance: This function must possess the magic of case-insensitivity, deciphering both uppercase and lowercase glyphs. Fear not the numbers or punctuation, for they remain unchanged in the unveiled message.
+
+Examples of expected output:
+
+- decodeCipher('pwvvc rclvm!', key) should return 'hello world!'
+- decodeCipher('jGnW dBnWbNdAdSw', key) should return 'cAsE iNsEnSiTiVe'
+- decodeCipher('123', key) should return '123' as numbers are not encrypted by this cipher
+- decodeCipher('?!', key) should return '?!' as punctuation is not encrypted by this cipher
+
+Good luck, brave adventurer! Venture forth and unlock the secrets of the ancient tablet!
 
 ## 💭 Reflections
 

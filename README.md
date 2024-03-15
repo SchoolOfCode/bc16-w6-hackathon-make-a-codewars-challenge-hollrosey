@@ -96,10 +96,10 @@ Before pushing your final kata repository, be sure to remove any solution code y
 Share it with following format:
 
 ```
-Room: REPLACE_ME_WITH_YOUR_ROOM_NUMBER
-Name: REPLACE_ME_WITH_YOUR_NAME
+Room: 12
+Name: Holly Massey
 Link: REPLACE_ME_WITH_A_LINK_TO_YOUR_PUBLIC_GITHUB_REPO_CONTAINING_THE_KATA
-Overview: REPLACE_ME_WITH_A_BRIEF_DESCRIPTION_OF_WHAT_YOUR_KATA_IS_ABOUT
+Overview: Write a function to decipher the message using the given key
 ```
 
 If it's not public already, remember to change the visibility of your repository to public.
