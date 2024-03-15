@@ -30,12 +30,22 @@ Where I could improve:
 7. Write tests based on these comments first ✅
 8. Go back and implement code to pass these tests- starting in the simplest form and making changes accordingly ✅
 9. Check that tests are working correctly with the solution to the kata ✅
-10. Remove solution code once tests are working
+10. Remove solution code once tests are working ✅
 11. Push working tests with skeleton function
     🚀 Stretch Goals:
-12. Publish to Codewars
-13. Make harder versions of the kata to publish so that it addresses different skillsets
-14. Translate it into languages other than JavaScript
+12. Handle different cases
+13. Publish to Codewars
+14. Make harder versions of the kata to publish so that it addresses different skillsets
+15. Translate it into languages other than JavaScript
+
+### Desicions table testing
+
+| Test Case | Cipher Text    | Expected Outcome |
+| --------- | -------------- | ---------------- |
+| 1         | "pwvvc"        | "hello"          |
+| 2         | "pwvvc rclvm!" | "hello world!"   |
+| 3         | "?!"           | "?!"             |
+| 4         | "123"          | "123"            |
 
 ### 🧠 Brainstorming
 
