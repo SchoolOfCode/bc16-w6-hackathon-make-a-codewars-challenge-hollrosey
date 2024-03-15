@@ -29,6 +29,7 @@ What went well:
 - Thorough brainstorming and planning
 - Talking through our projects together as a group for ideas and support
 - Hitting MVP targets and being able to work on stretch goals
+- Open and honest communication within the team, everyone was lovely!
 
 Where I could improve:
 

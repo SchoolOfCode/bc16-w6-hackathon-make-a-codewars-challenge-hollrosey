@@ -98,7 +98,7 @@ Share it with following format:
 ```
 Room: 12
 Name: Holly Massey
-Link: REPLACE_ME_WITH_A_LINK_TO_YOUR_PUBLIC_GITHUB_REPO_CONTAINING_THE_KATA
+Link: https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-hollrosey
 Overview: Write a function to decipher the message using the given key
 ```
 
