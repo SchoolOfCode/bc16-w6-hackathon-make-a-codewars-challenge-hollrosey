@@ -1,10 +1,14 @@
-# ✨ Hackathon 6 - Build your own Codewars kata
+✨ Hackathon 6 - Build your own Codewars kata
+
+# 📜 Mystery Cipher
 
 ## 📖 Story
 
-In this kata, you will be thrown into the world of algorithmic artistry and be tasked to create your own pixel art generator.
+In the depths of a mysterious forest, you have uncovered an ancient tablet, it's contents obscured by a cryptic ciper. Legends spoke of a hidden code that held the key to unlocking secrets untold.
 
-Your task is to implement 'generatePixelArt', a function that generates pixel art images based on provided specifications. Every pixel within the image will be represented by a colour value chosen from a predetermined palette.
+As a brave adventurer, it falls to you to decipher this cryptic tablet and reveal the message hidden upon it.
+
+Good luck!
 
 ## 💭 Reflections
 
@@ -15,28 +19,27 @@ Where I could improve:
 ## 📝 Plan
 
 🏁 Setup:
-1. Use Disney Ideation to brainstorm some kata ideas
-2. Decide on a kata to create that fits in the hackathon time constraints
-3. Break this idea down into an MVP and add suitable stretch goals
 
-🛠️ MVP: 
-4. Create a function skeleton in 'main.js' file 
-5. Write a plan for the code in comments within the skeleton function 
-6. Write tests based on these comments first 
-7. Go back and implement code to pass these tests- starting in the simplest form and making changes accordingly 
-8. Check that tests are working correctly with the solution to the kata 
-9. Remove solution code once tests are working 
-10. Push working tests with skeleton function
+1. Use Disney Ideation to brainstorm some kata ideas ✅
+2. Decide on a kata to create that fits in the hackathon time constraints ✅
+3. Break this idea down into an MVP and add suitable stretch goals ✅
+   🛠️ MVP:
+4. Define a cipher text variable and create a key
+5. Create a function skeleton in 'main.js' file ✅
+6. Write a plan for the code in comments within the skeleton function ✅
+7. Write tests based on these comments first ✅
+8. Go back and implement code to pass these tests- starting in the simplest form and making changes accordingly ✅
+9. Check that tests are working correctly with the solution to the kata ✅
+10. Remove solution code once tests are working
+11. Push working tests with skeleton function
+    🚀 Stretch Goals:
+12. Publish to Codewars
+13. Make harder versions of the kata to publish so that it addresses different skillsets
+14. Translate it into languages other than JavaScript
 
-🚀 Stretch Goals: 
-11. Publish to Codewars 
-12. Make harder versions of the kata to publish so that it addresses different skillsets 
-13. Translate it into languages other than JavaScript
+### 🧠 Brainstorming
 
-
-### Brainstorming
-
-🏰 Disney Ideation
+🏰 Disney Ideation:
 
 🌟 The Dreamer
 
