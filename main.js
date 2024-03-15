@@ -60,7 +60,5 @@ const key = {
 // Define the function decodeCipher which accepts cipherText and key as parameters
 export function decodeCipher(cipherText, key) {
   // Good luck!
-
-  // Return the decoded message
   return decodedMessage;
 }
