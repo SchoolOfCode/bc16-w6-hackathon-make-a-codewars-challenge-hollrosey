@@ -1,6 +1,6 @@
 ✨ Hackathon 6 - Build your own Codewars kata
 
-# 📜 Mystery Cipher
+# 📜 Mysterious Cipher
 
 ## 📖 Story
 
@@ -16,6 +16,8 @@ Examples of expected output:
 - decodeCipher('jGnW dBnWbNdAdSw', key) should return 'cAsE iNsEnSiTiVe'
 - decodeCipher('123', key) should return '123' as numbers are not encrypted by this cipher
 - decodeCipher('?!', key) should return '?!' as punctuation is not encrypted by this cipher
+
+The key will be provided for you in a variable called 'key'. You can use 'key' to access the cipher.
 
 Good luck, brave adventurer! Venture forth and unlock the secrets of the ancient tablet!
 
