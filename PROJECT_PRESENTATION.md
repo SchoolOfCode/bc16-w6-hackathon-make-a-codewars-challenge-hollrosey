@@ -14,7 +14,16 @@ Good luck!
 
 What went well:
 
+- Getting to 300 honour on Codewars
+- Thorough brainstorming and planning
+- Talking through our projects together as a group for ideas and support
+- Hitting MVP targets and being able to work on stretch goals
+
 Where I could improve:
+
+- Don't panic when something isn't working as expected, take a break and try again or ask my team to look with me
+- Take more breaks, it's harder to enforce when working alone
+- Increase the complexity of the initial kata
 
 ## 📝 Plan
 
